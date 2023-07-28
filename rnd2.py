@@ -28,6 +28,7 @@ def solution(x,y):
 
 def solution2(string):
     '''
+    ________Part 2_________________
     Write a program that counts how many salutes are exchanged during a typical walk along a hallway. 
     The hall is represented by a string. For example:
 "--->-><-><-->-"
@@ -62,4 +63,3 @@ of times the employees will salute. s will contain at least 1 and at most 100 ch
     
     return salutes
 
-    

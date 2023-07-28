@@ -33,5 +33,3 @@ def solution(i):
             break
     
     return s[i:i+5]
-
-print(solution(3))
